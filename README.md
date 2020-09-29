@@ -1,6 +1,13 @@
 # FaciesClassification
 
-Facies Classification Using Machine Learning Techniques
+Facies Classification Using Machine Learning Algorithms:
+
+- Logistic Regression
+- K-Nearest Neighbor
+- Support Vector Machine
+- Random Forest
+- Neural Network
+- Naive Bayes
 
 ## Well logs 
 
